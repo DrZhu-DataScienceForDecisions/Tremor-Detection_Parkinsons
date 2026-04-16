@@ -4,4 +4,4 @@
 
 #### This repo provides a machine learning model to detect and distinguish Parkinson's tremor from normal daily activities such as walking, running, standing, driving, etc.
 
-##### [View Code (Parkinson'sTremorDetection.ipynb)](Parkinson'sTremorDetection.ipynb) for the detailed results and methods.
+#### [View Code (Parkinson'sTremorDetection.ipynb)](Parkinson'sTremorDetection.ipynb) for the detailed results and methods.
